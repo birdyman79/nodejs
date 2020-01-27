@@ -1,4 +1,4 @@
 # TODO
-- [ ] Add todo
-- [ ] Remove todo
+- [x] Add todo
+- [x] Remove todo
 - [ ] More todo
